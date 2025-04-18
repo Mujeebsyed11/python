@@ -9,3 +9,5 @@ for i in s1:
     else:
         sodd+=int(i)
 print(sodd-seven)
+
+
